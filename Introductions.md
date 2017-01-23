@@ -50,7 +50,7 @@
 
 11)  Who else is in your group?  Only use github names and link to their page like this:  [MadStats](https://github.com/MadStats) and [karlrohe](https://github.com/karlrohe).
 
- [YI-DING](https://github.com/YI-DING)
- [HuiyuanMiao](https://github.com/HuiyuanMiao)
- [qinqing127](https://github.com/qinqing127)
+ [YI-DING](https://github.com/YI-DING);
+ [HuiyuanMiao](https://github.com/HuiyuanMiao);
+ [qinqing127](https://github.com/qinqing127);
  [qzhao0211](https://github.com/MadStats/introductions-qzhao0211)
